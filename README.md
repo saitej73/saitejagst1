@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saitejagst1
+- 👋 Hi, I’m Sai Teja
 - 👀 I’m interested in gaining exposure over new learnings.
 - 🌱 I’m currently learning JavaScript,Full stack development,Professional python
 - 💞️ I’m looking to collaborate on ...
